@@ -26,15 +26,15 @@ version--2021/3/8
  
 每7行代表图片中的一个垃圾 
  
-category.txt说明： 
-3		--小类数量 
-bottle		--小类名称 
-cigeratte	-- 
-paper		-- 
-2		--大类数量 
-recycle		--大类名称 
-unrecycle	-- 
-0		--小类与大类的所属关系 
-1		-- 
-0		-- 
+category.txt说明：   
+3		--小类数量  
+bottle		--小类名称  
+cigeratte	--  
+paper		--  
+2		--大类数量  
+recycle		--大类名称  
+unrecycle	--  
+0		--小类与大类的所属关系  
+1		--  
+0		--  
 
