@@ -1,0 +1,11 @@
+<launch>
+
+    <node pkg="pcl_ros" type="pointcloud_to_pcd" name="pointcloud_to_pcd" output="screen"  >
+    <param name="filename"  type="str" value="/home/jrkjamie/document/camera/pcd/data/depth/21"/>
+    </node>
+
+    <node pkg="kinect" type="save.py" name="save"  output="screen">
+    <param name="path" type="str" value="/home/jrkjamie/document/camera/pcd/data/image/21.jpg"/>
+    </node>
+
+</launch>

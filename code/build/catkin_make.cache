@@ -1,0 +1,2 @@
+kinect:process
+-DCATKIN_DEVEL_PREFIX=/home/jrkjamie/document/dataset/code/devel -DCMAKE_INSTALL_PREFIX=/home/jrkjamie/document/dataset/code/install -G Unix Makefiles

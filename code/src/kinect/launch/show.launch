@@ -1,0 +1,7 @@
+<launch>
+    <include file="$(find freenect_launch)/launch/freenect.launch" />
+    
+
+    <!-- rviz-->
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find kinect)/src/show.rviz" required="true" />
+</launch>
