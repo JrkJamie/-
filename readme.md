@@ -5,8 +5,8 @@ version--2021/4/12
 增加数据集采集流程代码，具体执行如下： 
 1. 配置环境变量 
 2. roslaunch kinect show.launch --启动kinect相机并查看相机图像 
-3. roslaunch kinect save.launch --存储当前rgb和点云信息，注意每次采集之前需要修改save.launch内部的路径 
-
+3. roslaunch kinect save.launch --存储当前rgb和点云信息，注意每次采集之前需要修改save.launch内部的路径  
+4. 采集完成后
 
 
 
