@@ -1,10 +1,12 @@
 3
 bottle
-cigeratte
-paper
+carton
+tissue
+banana
 2
 recycle
 unrecycle
 0
-1
 0
+0
+1
